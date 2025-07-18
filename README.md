@@ -12,4 +12,5 @@ If you think my mirror is having problems, kindly open a new issue and choose th
 
 ## Contact me
 Discord: `@meowice`
+
 Email: `meowice ///at/// meowsmp ///dot/// net`
