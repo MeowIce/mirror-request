@@ -13,10 +13,10 @@ We support both IPv4 and IPv6.
    + RSYNC: `rsync://mirror.meowsmp.net/`
 
 # ➕New mirror request➕
-If you want [MeowSMP.net Mirror](https://mirror.meowsmp.net/) to mirror your project, please let me know [here](https://github.com/MeowIce/mirror-request/issues) and choose the `Mirror request` tag.
+If you want [MeowSMP.net Mirror](https://mirror.meowsmp.net/) to mirror your project, please let me know [here](https://github.com/MeowIce/mirror-request/issues/new/choose) and choose the `Mirror request` tag.
 
 # ❗️Report problems❗️
-If you think my mirror is having problems, or modify the configuration setup (ex: sync time, upstream repo changes,...), kindly open a new issue and choose the `Problem report` tag.
+If you think my mirror is having problems, or modify the configuration setup (ex: sync time, upstream repo changes,...), kindly open a new issue [here](https://github.com/MeowIce/mirror-request/issues/new/choose) and choose the `Problem report` tag.
 
 # 📮Contact me📮
 Discord: `@meowice`
