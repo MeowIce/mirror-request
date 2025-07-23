@@ -19,8 +19,9 @@ Ex: myproject.org
 Tell us about the project, for what, and what software ?
 Ex: I don't know, cook yours here :D
 
-**Mirroring information:**
+**How to sync ?**
 How should we mirror the project ? At what time ? How frequent ?
+*SUPPORTED METHODS: RSYNC (preferred), Syncthing.*
 Ex: using "rsync.myproject.org/coolproject" and must sync once every 24hrs.
 
 **Maintenaner contact information:**

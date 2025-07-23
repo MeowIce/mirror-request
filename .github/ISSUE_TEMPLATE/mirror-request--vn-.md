@@ -21,6 +21,7 @@ Ex: I don't know, cook yours here :D
 
 **Hướng dẫn mirror:**
 Hướng dẫn tụi mình cách mirror dự án đó, bao gồm cả quy định mirror.
+*Các phương thức hỗ trợ: RSYNC (ưu tiên), Syncthing.*
 Ex: dùng "rsync.myproject.org/coolproject" và sync một lần mỗi 24h.
 
 **Thông tin liên hệ người vận hành dự án:**
