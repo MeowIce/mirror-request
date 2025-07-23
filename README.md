@@ -13,7 +13,7 @@ We support both IPv4 and IPv6.
    + RSYNC: `rsync://mirror.meowsmp.net/`
 
 # ➕New mirror request➕
-If you want [MeowSMP.net Mirror](https://mirror.meowsmp.net/) to mirror your project, please let me know [here](https://github.com/MeowIce/mirror-request/issues/new/choose) and choose the `Mirror request` tag.
+If you want [MeowSMP.net Mirror](https://mirror.meowsmp.net/) to mirror your project, please let me know [here](https://github.com/MeowIce/mirror-request/issues/new/choose) and choose the `Mirror request` tag. We support synchronizing using either RSYNC or Syncthing.
 
 # ❗️Report problems❗️
 If you think my mirror is having problems, or modify the configuration setup (ex: sync time, upstream repo changes,...), kindly open a new issue [here](https://github.com/MeowIce/mirror-request/issues/new/choose) and choose the `Problem report` tag.
@@ -37,7 +37,7 @@ Chúng mình hỗ trợ cả IPv4 và IPv6.
    + RSYNC: `rsync://mirror.meowsmp.net/`
 
 # ➕Yêu cầu mirror mới➕
-Nếu bạn muốn [The MeowSMP.net Mirror](https://mirror.meowsmp.net/) mirror dự án của bạn thì hãy cho mình biết bằng cách mở issue mới và chọn tag `Mirror request`.
+Nếu bạn muốn [The MeowSMP.net Mirror](https://mirror.meowsmp.net/) mirror dự án của bạn thì hãy cho mình biết bằng cách mở issue mới và chọn tag `Mirror request`. Chúng mình hỗ trợ đồng bộ dữ liệu bằng RSYNC hoặc Syncthing.
 
 # ❗️Báo lỗi❗️
 Nếu bạn nghĩ mirror của mình đang có vấn đề, hoặc thay đổi setup (như thời gian, đổi repo,...), hãy mở issue mới và chọn tag `Problem report`.
